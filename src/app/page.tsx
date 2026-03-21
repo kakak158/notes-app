@@ -94,7 +94,7 @@ export default function Home() {
           </p>
         </div>
       </div>
-      <div className="fixed bottom-0 left-0 h-15 w-full bg-gray-600">hi</div>
+      <div className="fixed bottom-2 left-2 right-2 h-15 border-b-3 border-gray-500 p-2 pb-2 border rounded-xl bg-gray-900"></div>
     </div>
   );
 }

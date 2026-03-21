@@ -2,3 +2,10 @@
 * {
   transition: all 200ms ease-in-out;
 }
+html,
+body {
+  background-color: black; /* your color */
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+}
