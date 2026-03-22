@@ -1,6 +1,6 @@
 @import "tailwindcss";
 * {
-  transition: all 200ms ease-in-out;
+  transition: all 50ms ease-in-out;
 }
 html,
 body {
